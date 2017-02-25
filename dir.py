@@ -17,3 +17,5 @@ directory = os.listdir( path )
 for files in directory: # This would print all the files in directories in seprate lines
 
    print files
+   
+   
