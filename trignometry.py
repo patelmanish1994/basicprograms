@@ -7,7 +7,9 @@ fmt = '  '.join(['%7.2f'] * 5)
 
 for deg in range(0, 361, 30):
     rad = math.radians(deg)
-    if deg in (90, 270):
+    if deg in (90, 270
+               
+        
         t = float('inf')
     else:
         t = math.tan(rad)
