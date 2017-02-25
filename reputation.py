@@ -66,6 +66,9 @@ for i in range(0,k):
     rep=rep+(boys_s[i]*girls_s[i])
 print rep
 
+
+
+
     
     
     
