@@ -5,3 +5,6 @@ area=x*y
 print"the value of area is: ",area
 
 print"manish"
+
+
+
