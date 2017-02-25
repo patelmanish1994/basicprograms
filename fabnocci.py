@@ -11,3 +11,6 @@ while (number_of_terms!=0):
     number2=num3
     number_of_terms=number_of_terms-1
     print num3
+
+    
+    
